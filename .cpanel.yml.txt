@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/vucapcov/digitalgarden
+    - /bin/cp -R images $DEPLOYPATH
