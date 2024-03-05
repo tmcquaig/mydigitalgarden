@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/vucapcov/tracemcquaig.com/digitalgarden
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R /home/vucapcov/repositories/src/* $DEPLOYPATH
