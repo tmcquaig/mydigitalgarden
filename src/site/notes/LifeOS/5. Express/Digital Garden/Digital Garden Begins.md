@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life-os/5-express/digital-garden/digital-garden-begins/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/life-os/5-express/digital-garden/digital-garden-begins/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 

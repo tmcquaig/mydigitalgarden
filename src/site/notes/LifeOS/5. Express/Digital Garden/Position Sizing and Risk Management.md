@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life-os/5-express/digital-garden/position-sizing-and-risk-management/"}
+{"dg-publish":true,"permalink":"/life-os/5-express/digital-garden/position-sizing-and-risk-management/","noteIcon":""}
 ---
 
 
